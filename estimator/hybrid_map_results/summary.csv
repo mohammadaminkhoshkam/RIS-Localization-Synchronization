@@ -1,0 +1,12 @@
+Metric,Value,Unit
+UE position error,0.617341553191078,m
+UE velocity error,0.31430531685574,m/s
+Absolute eta error,0.000135851582662884,ppm
+Absolute delta_c error,0.418134560452486,ns
+Final objective,4123.25806332099,1
+Data objective,4123.13624819867,1
+Normalized data objective,0.998821765552004,1/sample
+Prior objective,0.121815122322975,1
+Equivalent FIM rank,26,1
+Equivalent FIM dimension,26,1
+Equivalent FIM condition number,56859265.4724601,1

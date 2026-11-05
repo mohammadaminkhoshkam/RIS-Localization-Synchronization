@@ -1,0 +1,17 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,11 @@
+EstimatedQuantity,StdLowerBound,Unit
+UE position error bound,1.17623228706796,m
+UE velocity error bound,1.8639633583984,m/s
+RIS 1 position error bound,0.173205080672576,m
+RIS 1 velocity error bound,0.0866025403784439,m/s
+RIS 2 position error bound,0.173205080674328,m
+RIS 2 velocity error bound,0.0866025403784439,m/s
+RIS 3 position error bound,0.173205080709212,m
+RIS 3 velocity error bound,0.0866025403784986,m/s
+Relative frequency error eta,0.00145584580924129,ppm
+Clock offset delta_c,0.985476284966667,ns
